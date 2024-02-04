@@ -60,8 +60,8 @@ div {
     border-top: 2px solid #ffffff;
 }
 
-p.blue,
-h2.blue {
+.blue p,
+.blue h2 {
     color: #C4C4C4;
 }
 
@@ -73,7 +73,7 @@ h2.blue {
     border-left: 5px solid #ffffff;
 }
 
-p.yellow {
+.yellow p {
     color: #707070;
 }
 
@@ -88,9 +88,6 @@ p.yellow {
 footer {
     background-image: linear-gradient(to right, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
     border: 5px solid #ffffff;
-}
-
-p.footer {
     text-align: right;
     font-size: 20px;
     padding-top: 15px;
